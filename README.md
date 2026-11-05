@@ -81,6 +81,7 @@ For Windows instructions, kernel setup, and environment checks, see [Getting sta
 .
 ├── README.md
 ├── CONTRIBUTING.md
+├── LICENSE
 ├── .env.example
 ├── .gitignore
 ├── requirements.txt
@@ -101,4 +102,4 @@ Dependencies are currently unpinned, and the repository does not define a tested
 
 ## License
 
-No `LICENSE` file is currently included in this repository.
+This project is licensed under the [MIT License](LICENSE).
