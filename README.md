@@ -1,5 +1,9 @@
 # Agentic AI Engineer with LangChain and LangGraph
 
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white)](https://docs.langchain.com/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 Hands-on Python notebooks for learning conversational AI with LangChain and OpenAI, featuring few-shot prompting, chatbot personalities, and conversation history.
 
 ## Overview
